@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to create the ASPxGridView at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e321/)**
+<!-- run online end -->
 
 
 <p>While the ASPxGridView is usually put on a page (ASPX) in the designer, nothing can stop you from creating and configuring it completely at runtime, in code behind when needed. This example proves this.</p><p><strong>See Also:</strong><br />
