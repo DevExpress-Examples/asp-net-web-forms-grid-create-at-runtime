@@ -17,7 +17,7 @@ Follow the steps below to create the control in code.
 1. Specify the control's `ID` property.
 1. Attach event handlers.
 1. Specify the control's properties.
-1. Insert the control into the entire controls hierarchy.
+1. Insert the control into the control hierarchy.
 1. Bind the control to data.
 
 ```cs
