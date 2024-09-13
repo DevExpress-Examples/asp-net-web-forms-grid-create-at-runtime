@@ -7,28 +7,23 @@
 '     the code is regenerated.
 ' </auto-generated>
 '------------------------------------------------------------------------------
-
-
-Imports Microsoft.VisualBasic
-Imports System
 Namespace GridRuntime
 
+    ''' <summary>
+    ''' _Default class.
+    ''' </summary>
+    ''' <remarks>
+    ''' Auto-generated class.
+    ''' </remarks>
+    Public Partial Class _Default
 
-	''' <summary>
-	''' _Default class.
-	''' </summary>
-	''' <remarks>
-	''' Auto-generated class.
-	''' </remarks>
-	Partial Public Class _Default
-
-		''' <summary>
-		''' form1 control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
-	End Class
+        ''' <summary>
+        ''' form1 control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+    End Class
 End Namespace
